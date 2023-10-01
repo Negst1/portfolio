@@ -1,0 +1,38 @@
+
+.card{
+    margin-right: 60px;
+    margin-bottom: 60px;
+    width: 400px;
+    height: 250px;
+    border: 1px solid rgba(114, 114, 114, 0.514);
+    border-radius: 8px;
+}
+
+.card__content{
+    height: 100%;
+    width: 400px;
+    padding-left: 30px;
+    padding-top: 45px;
+}
+
+.content__title{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.content__discription{
+    margin-bottom: 10px;
+}
+
+.logo{
+    color:rgb(3, 123, 11);
+    font-size: 30px;
+}
+
+.card__link{
+    color: rgb(3, 123, 11);
+}
+
+.card__link:hover{
+    color: rgb(15, 207, 28);
+}

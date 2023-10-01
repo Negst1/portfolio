@@ -1,0 +1,35 @@
+.footer{
+    background-color: rgb(76, 74, 85);
+    min-height: 300px;
+}
+
+.footer__content{
+    padding-top: 60px;
+    width: 1280px;
+    color: white;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__buyerTitle{
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.footer__listBuyer{
+    display: block;
+}
+
+.buyer__link{
+    color: white;
+    transition: color 0.5s;
+}
+
+.buyer__link:hover{
+    color: rgb(2, 160, 42);
+}
+
+.buyer__item{
+    margin-bottom: 5px;
+}

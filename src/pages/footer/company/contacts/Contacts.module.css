@@ -1,0 +1,56 @@
+.contacts{
+    height: 700px;
+    margin-bottom: 10px;
+}
+
+.cards{
+    display: flex;
+}
+
+.office__info{
+    width: 400px;
+    margin-right: 60px;
+}
+
+.company__info{
+    width: 300px;
+}
+
+.contacts__block{
+    display: flex;
+}
+
+.link__block{
+    margin-bottom: 10px;
+}
+
+.link__home:hover{
+    color:rgb(3, 123, 11);
+}
+
+.contacts__title{
+    margin-bottom: 20px;
+}
+
+.office__infoTitle{
+    margin-bottom: 10px;
+}
+
+.office__infoAddress{
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+
+.link__infoTel{
+    font-size: 15px;
+    color:rgb(3, 123, 11);
+}
+
+.link__infoTel:hover{
+    color:rgb(8, 216, 21);
+}
+
+.company__text{
+    font-size: 13px;
+    
+}

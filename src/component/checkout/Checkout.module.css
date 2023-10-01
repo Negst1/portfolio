@@ -1,0 +1,133 @@
+.checkout{
+    min-height: 000px;
+}
+
+.placingAnOrder{
+    margin-bottom: 30px;
+}
+
+.form__content{
+    display: flex;
+}
+
+.pay__yourOrder{
+    margin-bottom: 5px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.pay__discription{
+    font-size: 12px;
+}
+
+.pay__products{
+    margin-bottom: 10px;
+}
+
+.pay__delivery{
+    margin-bottom: 5px;
+}
+
+.totalBlock{
+    height: 40px;
+}
+
+.pay__totalText{
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.pay__totalPriceSale{
+    font-size: 25px;
+    font-weight:600;
+}
+
+.order{
+    margin-left: 40px;
+    width: 380px;
+    height: 350px;
+    background-color: rgb(242, 243, 245);
+    border-radius: 5px;
+}
+
+.order__content{
+    padding: 30px;
+}
+
+.products__block{
+    display: flex;
+    justify-content: space-between;
+}
+
+.totalBlock{
+    display: flex;
+    justify-content: space-between;
+}
+
+.recipient{
+    padding: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(242, 243, 245);
+    width: 860px;
+    height: 400px;
+    border-radius: 5px;
+}
+
+.form__title{
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.form__discription{
+    margin-bottom: 10px;
+}
+
+.data__user{
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+
+.input__tel{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.input__email{
+    margin-bottom: 30px;
+}
+
+.form__checkbox{
+    margin-right: 10px;
+}
+
+.delivery__address{
+    background-color: rgb(242, 243, 245);
+    width: 860px;
+    height: 400px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.pay__button{
+    display: block;
+    margin-bottom: 15px;
+    background-color: rgb(88, 85, 96);
+    color: white;
+    font-size: 17px;
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.delivery__content{
+    padding: 30px;
+}
+
+.form__select{
+    margin-top: 50px;
+}
